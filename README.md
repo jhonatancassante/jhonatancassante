@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou o Jhonatan!
 <div>
-  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=radical" />
-  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=radical" />
+  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=tokyonight" />
+  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=tokyonight" />
 </div>
 
 
