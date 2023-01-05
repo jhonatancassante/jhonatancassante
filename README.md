@@ -1,8 +1,16 @@
 ### Olá! 👋 Eu sou o Jhonatan!
+
+- 🔭 Atualmente estou estudando.
+- 🌱 Estou aprendendo JavaScript.
+- 😄 Pronomes: Ele / Dele.
+
 <div>
-  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=dracula&border_radius=20" />
-  <img style="width: 45%; height: 180px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=dracula&border_radius=15" />
+  <img style="width: 45%; height: 400px; " src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true" />
+  <img style="width: 45%; height: 400px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true" />
 </div>
+
+
+
 
 
 <!--
