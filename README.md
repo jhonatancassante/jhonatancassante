@@ -8,10 +8,10 @@
 
 <div>
   <a href="https://github.com/jhonatancassante">
-    <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true" />
+    <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/jhonatancassante">
-    <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true" />
+    <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancassante&layout=compact&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
