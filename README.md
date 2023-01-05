@@ -38,6 +38,7 @@
   <a href="https://codepen.io/jhonatancassante" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   
   <!-- Link para Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
+  ##
   
    ![Snake animation](https://github.com/jhonatancassante/jhonatancassante/blob/output/github-contribution-grid-snake.svg)
   
