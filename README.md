@@ -4,6 +4,8 @@
 - 🌱 Estou aprendendo JavaScript.
 - 😄 Pronomes: Ele / Dele.
 
+##
+
 <div>
   <a href="https://github.com/jhonatancassante">
     <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=jhonatancassante&show_icons=true&theme=dracula&border_radius=0&locale=pt-BR&hide_title=true" />
@@ -13,6 +15,9 @@
   </a>
 </div>
 
+
+## Linguagens que uso atualmente
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +26,8 @@
   <!-- Link para Linguagens: https://devicon.dev -->
 </div>
 
-##
+
+## Contato e Redes Sociais
 
 <div>
   <a href="https://www.instagram.com/jhonatancassante/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
